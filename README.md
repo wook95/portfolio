@@ -1,7 +1,7 @@
 # 포트폴리오
 <br>
 <img align="left" width="30%" src="https://user-images.githubusercontent.com/80494742/148906733-abce7368-f974-42f3-afd9-dec7111ff907.JPG" />
-<br><br><br>
+<br><br>
 안녕하세요,<br>
 빨리 배우는, 적응을 잘하는, 어울리는것을 좋아하는, 새로운것을 좋아하는<br>
 프론트앤드 개발자 이욱창입니다!<br>
